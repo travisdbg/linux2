@@ -1,1 +1,1 @@
-# linux2
+# n kernel project build (linux-next tree, modified config)
